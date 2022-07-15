@@ -1,4 +1,4 @@
-package com.kulanshu.microservices.limitservice.controllers.beans;
+package com.kulanshu.microservices.limitservice.beans;
 
 public class LimitsConfiguration {
 
